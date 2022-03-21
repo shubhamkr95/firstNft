@@ -1,9 +1,5 @@
 node_modules
-<<<<<<< HEAD
 .env
 
-#Hardhat files
-=======
->>>>>>> repair
-cache
-artifacts
+/cache
+/artifacts
